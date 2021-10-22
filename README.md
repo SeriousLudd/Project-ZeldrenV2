@@ -18,4 +18,4 @@ derrière l'ennemi, ce qui peut être frustant. Il suffit en effet qu'un seul pi
 ne frotte un sprite adverse pour que cela tue le joueur. 
 
 
-- Maxime
+- Serious_Ludd
