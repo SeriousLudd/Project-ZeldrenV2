@@ -1,0 +1,26 @@
+TrogonHarrier_Spritesheet.png
+size: 150, 50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TrogonHarrier
+  rotate: false
+  xy: 0, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+TrogonHarrier
+  rotate: false
+  xy: 50, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+TrogonHarrierHurt
+  rotate: false
+  xy: 100, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

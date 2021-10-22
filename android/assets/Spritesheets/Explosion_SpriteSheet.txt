@@ -1,0 +1,75 @@
+Explosion_SpriteSheet.png
+size: 49, 710
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Explosion
+  rotate: false
+  xy: 0, 0
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 0, 71
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 0, 142
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 0, 213
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 0, 284
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 0, 355
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 0, 426
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 0, 497
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 0, 568
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 0, 639
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1

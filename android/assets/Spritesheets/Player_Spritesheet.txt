@@ -1,0 +1,19 @@
+Player_Spritesheet.png
+size: 30, 140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RaygrCraft_0
+  rotate: false
+  xy: 0, 0
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+RaygrCraft_1
+  rotate: false
+  xy: 0, 70
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
