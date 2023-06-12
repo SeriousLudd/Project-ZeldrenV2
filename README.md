@@ -1,5 +1,5 @@
 # Project-ZeldrenV2
-Small video game, shoot'em'up, prototype
+Small video game, shoot'em'up, prototype. 
 
 NOTICE D'UTILISATION:
 -------------------
